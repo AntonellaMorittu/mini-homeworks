@@ -1,0 +1,12 @@
+PostgreSQL
+is the most advanced, SQL-compliant relational database.
+It is powerful for its versatility and strong support of platforms. Most importantly, not like SQLite, is  an open-source database,
+meaning that it involves the freedom to be uses in any way desired.
+It is recommended to use for single-user local applications, mobile applications or games but it is not good to use if you are working on an application whereby multiple clients need to access and use the same database, like in our case.
+
+PostgreSQL is suitable for complex Data Base Management System, it gives you the functionality to maintain complex database smoothly without limitations.
+PostgreSQL is supported by a devoted and experienced community which can be accessed through knowledge-bases and Q&A sites 24/7 for free,
+it ensures reliability and data integrity, it is also an extendible DB supporting nesting and more.
+
+Postgres  uses Object, Classes, and Inheritance, as in Ruby.
+It also stores timezone, SQlite doesnt.
